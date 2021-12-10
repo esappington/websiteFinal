@@ -1,0 +1,52 @@
+
+h1 {
+  color: black;
+  text-transform: uppercase;
+  font-style: italic;
+  font-size: 60px;
+  background-color: aqua;
+  border: 3px solid black;
+  padding: 20px;
+
+}
+
+body {
+  color: red;
+  background-color: antiquewhite;
+}
+
+p {
+  color: red;
+}
+
+nav {
+  color: black;
+  font-family: monospace;
+  font-size: 15px;
+  background-color: aqua;
+  border: 3px solid black;
+  padding: 10px;
+
+}
+
+how to use you insert
+<button class="btn btn-1">
+  button 1
+</button>
+
+.btn {
+  padding: 10px;
+  color: white;
+}
+
+.btn-2 {
+  background-color: green;
+}
+
+.btn-2 {
+  background-color: yellow;
+}
+
+.btn-3 {
+  background-color: red;
+}
